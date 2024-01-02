@@ -1,0 +1,3 @@
+import simplelogin
+
+simplelogin.login()
